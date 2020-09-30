@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="mironenko:war">
+    <output-path>$PROJECT_DIR$/mironenko/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>mironenko</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="mironenko-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="mironenko:war exploded" />
+    </root>
+  </artifact>
+</component>
