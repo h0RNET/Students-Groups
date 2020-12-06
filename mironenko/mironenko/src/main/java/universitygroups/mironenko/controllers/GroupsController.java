@@ -10,6 +10,8 @@ import universitygroups.mironenko.services.GroupsServices;
 import javax.servlet.http.HttpServletRequest;
 import java.util.List;
 
+//Тест коммент
+
 @Controller
 @RequestMapping("/groups")
 @AllArgsConstructor
